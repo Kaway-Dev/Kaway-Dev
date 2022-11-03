@@ -1,4 +1,4 @@
-### Olá pessoal, eu sou o Philippe Kaway 🐱‍👤
+### Olá, eu sou o Philippe Kaway 🐱‍👤
 
 
 <div align="center">
