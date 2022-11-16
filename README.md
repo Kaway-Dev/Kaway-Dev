@@ -1,6 +1,4 @@
-### Olá, eu sou o Philippe Kaway 🐱‍👤
-
-
+## Olá, eu sou o Philippe Kaway 🐱‍👤
 <div align="center">
   <a href="https://github.com/Kaway-Dev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kaway-Dev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -13,8 +11,6 @@
   <img align="center" alt="Ph-Java" height="40" width="45" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" alt="Ph-NodeJs" height="40" width="45" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
   <img align="center" alt="Ph-React" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-
-  
 </div>
   
   ##
