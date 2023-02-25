@@ -1,4 +1,7 @@
-## Olá, eu sou o Philippe Kaway 🐱‍👤
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+EU+SOU+O+PHILIPPE+KAWAY;EU+SOU+DEV+FRONT-END)](https://git.io/typing-svg)
+
 <div align="center">
   <a href="https://github.com/Kaway-Dev">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Kaway-Dev&show_icons=true&theme=react&include_all_commits=true&count_private=true">
@@ -24,3 +27,11 @@
   <a href="https://www.linkedin.com/in/philippe-kaway-6715051a1" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div> 
   
+ 
+  
+  <div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+  
+ 
+  </div>
