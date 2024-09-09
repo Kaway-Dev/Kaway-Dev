@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+EU+SOU+O+PHILIPPE+KAWAY;SOU+DEV+FRONT-END)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+EU+SOU+O+PHILIPPE+KAWAY;)](https://git.io/typing-svg)
 
 <div align="center">  
   <img align="center" width="500" src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif" />
