@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou o Philippe Kaway 👋</h1>
 
 <p align="center">
-  Desenvolvedor em evolução, atualmente trabalhando com Cloud/AWS, arquitetura e desenvolvimento web.
+  Em evolução, atualmente trabalhando com Cloud/AWS, arquitetura e desenvolvimento web.
   <br />
   Estudante da 42 São Paulo e apaixonado por tecnologia, resolução de problemas e aprendizado contínuo.
 </p>
