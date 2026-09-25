@@ -1,4 +1,7 @@
 <h1 align="center">Olá, eu sou o Philippe Kaway 👋</h1>
+<p align="center">
+<img width="400" height="300" alt="image" src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/attachments/delivery/asset/28f4413b27e2d5142cb2cf412576b5be-1667002896/superpixelersanimation/create-a-custom-pixel-art-wallpaper-background.gif"/>
+</p>
 
 <p align="center">
   Em evolução, atualmente trabalhando com Cloud/AWS, arquitetura e desenvolvimento web!
