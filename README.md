@@ -36,7 +36,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=aws,githubactions,linux,c,vim,angular,ts,js,nodejs,java,git,github" />
+<img src="https://skillicons.dev/icons?i=aws,githubactions,linux,c,vim,angular,ts,js,nodejs,python,git,github" />
 
 </div>
 
